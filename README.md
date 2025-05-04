@@ -3,7 +3,7 @@ This is a demo project to elaborate how Machine Learn Models are deployed on pro
 Ce code Python a pour but principal de créer un modèle de machine learning supervisé pour prédire si un prêt sera accordé ou non, à partir d’un jeu de données (train.csv) contenant des informations sur les emprunteurs.
 # Prerequisites
 You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
-#Objectif global
+# Objectif global
 1. Nettoyer et préparer les données (Loan_ID, valeurs manquantes, encodage des catégories...),
 2. Analyser les données (exploration visuelle avec seaborn, calcul de proportions),
 3. Entraîner différents modèles de classification (régression logistique, KNN, arbre de décision),
